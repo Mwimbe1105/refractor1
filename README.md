@@ -1,5 +1,4 @@
 # refractor1
-this is a false company used to help students learn.
-in this ive added some alt tags for the images to help with possible impared users.
-to me this assignment was very confusing as to how little there was to do but i feel that there is more to do.
-
+challenge1
+in this code ive added some alt tags to various images that i think would be needed for possible screen readers. 
+im not really sure how this is supposed to be. just a little confising 
